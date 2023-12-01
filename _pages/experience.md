@@ -7,8 +7,8 @@ nav_order: 5
 ---
 
 <h4>Research</h4>
-* Mar. 2022-Present, [Multimedia Processing and Communications (MPAC) Lab](http://mpac.ee.ntu.edu.tw/index.php), NTU
-* Sep. 2022-Present, [Lab of Prof. Peng-Lung Han](https://www.ee.ntu.edu.tw/publist1.php?id=58), NTU
+* Researcher, [Multimedia Processing and Communications (MPAC) Lab](http://mpac.ee.ntu.edu.tw/index.php), NTU, Mar. 2022-Present
+* Researcher, [Lab of Prof. Peng-Lung Han](https://www.ee.ntu.edu.tw/publist1.php?id=58), NTU, Sep. 2022-Present
 
 <h4>Teaching</h4>
 * Teaching Assistant, [Electrical Engineering Lab (photonics)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2040800&class=&dpt_code=9010&ser_no=84874&semester=111-2&lang=CH) (Spring 2022)
@@ -16,5 +16,5 @@ nav_order: 5
   * Delivered lectures about the principles and workflow of the experiment
 
 <h4>Work</h4>
-* July 2020-Aug. 2020, [VIA Technologies](https://www.viatech.com/en/), New Taipei City
+* Software Engineer - DL / CV, [VIA Technologies](https://www.viatech.com/en/), New Taipei City, July 2020-Aug. 2020
   * Proposed and implemented an anchor-free object detection method using <strong>GAN</strong>s.
