@@ -20,4 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I just received my B.S. in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php) from [National Taiwan University](https://www.ntu.edu.tw/english/), ranking 8th among 189 EE graduates. I am currently working with Prof. [Lung-Han Peng](https://www.ee.ntu.edu.tw/bio1.php?id=58) on solid-state lasers and conoscopy, and Prof. [Homer H. Chen](https://www.ee.ntu.edu.tw/bio1.php?id=60) on photorealistic rendering for augmented reality.
 
-My research interests include micro-LED displays and metasurface optics, aiming to miniaturize AR head-mounted displays while simultaneously enhancing brightness and resolution. I like to study cutting-edge technology and cool mathematical theories. When I am free, I usually play table tennis, read mangas, or go on small travels.
+My research interests include metasurfaces, micro-LEDs, and computational displays, aiming to miniaturize AR head-mounted displays while simultaneously enhancing resolution and brightness. I like to study cutting-edge technology and cool mathematical theories. When I am free, I usually play table tennis, read mangas, or go on small travels.
+
+Here is my [resume](./assets/pdf/Resume_of_Hung-Hsiang_Chiu.pdf).
