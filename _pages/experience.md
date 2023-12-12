@@ -14,7 +14,7 @@ nav_order: 4
 * TA for [Electrical Engineering Lab (photonics)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=901%2040800&class=&dpt_code=9010&ser_no=84874&semester=111-2&lang=CH), NTUEE, Feb. 2023-June 2023
   * Designed a new <strong>liquid crystal</strong> experiment and wrote course materials
   * Delivered lectures about the principles and workflow of the experiment
-* Programming Totor, NTUEE, Feb. 2021-June 2021
+* Programming Tutor, NTUEE, Feb. 2021-June 2021
   * Held weekly seminars to assist NTU students having trouble with programming and algorithms
 
 <h4>Work</h4>
