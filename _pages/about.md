@@ -1,25 +1,26 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: Undergraduate in <a href='https://web.ee.ntu.edu.tw/eng/index.php'>Electrical Engineering, National Taiwan University</a>.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>email: eric.chiu.work</p>
-    <p>.study[at]gmail.com<p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I received my B.S. in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php) from [National Taiwan University](https://www.ntu.edu.tw/english/), ranking 8th among 189 EE graduates. I am currently working with Prof. [Lung-Han Peng](https://www.ee.ntu.edu.tw/bio1.php?id=58) on solid-state lasers and conoscopy, and Prof. [Homer H. Chen](https://www.ee.ntu.edu.tw/bio1.php?id=60) on photorealistic rendering for augmented reality.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-My research interests include optics, photonics, metasurfaces, computational displays, nanoLEDs, and microLEDs, aiming to miniaturize AR head-mounted displays while simultaneously enhancing resolution and brightness. I like to study cutting-edge technology and cool mathematical theories. When I am free, I usually play table tennis, read manga, or go on small travels.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Here is my [resume](./assets/pdf/Resume_of_Hung-Hsiang_Chiu.pdf).
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
